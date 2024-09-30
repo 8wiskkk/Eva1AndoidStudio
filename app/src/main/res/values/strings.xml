@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Thomas Eva1</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="vehiculo">Vehículo</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="confirmar">Confirmar Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="iniciar">¿Tienes una cuenta? Inicia sesión</string>
+    <string name="perfil">Perfil</string>
+    <string name="nombreUser">Thomas Ramos Maraboli</string>
+    <string name="auto">Vehículo</string>
+    <string name="modelo">Nissan V16</string>
+    <string name="informacion">Información</string>
+    <string name="estacionamiento">Estacionamiento</string>
+    <string name="nombreEst">Estacionamiento \'Central Park\'</string>
+    <string name="direccion">Ubicación: Calle Principal 123, Ciudad</string>
+    <string name="horario">Horario:</string>
+    <string name="horas">Lunes a Viernes: 7:00 AM – 10:00 PM</string>
+    <string name="horas2">Sábado: 8:00 AM – 5:00 PM</string>
+    <string name="horas3">Domingo: 10:00 AM – 6:00 PM</string>
+    <string name="tarifas">Tarifas:</string>
+    <string name="tarifaHora">Primera hora: $1000</string>
+    <string name="adicional">hora adicional: $500</string>
+    <string name="tarifaMax">Tarifa diaria máxima: $10.000</string>
+    <string name="metodo">Métodos de pago:</string>
+    <string name="efectivo">Efectivo – Tarjeta de crédito/débito</string>
+    <string name="servicios">Servicios adicionales:</string>
+    <string name="espacioEsp">Espacios accesibles para personas con discapacidad</string>
+    <string name="vigilancia">Vigilancia 24 horas</string>
+    <string name="sistema">Sistema de cámaras de seguridad</string>
+    <string name="contacto">Contacto</string>
+    <string name="numero">Teléfono: +56 9 1234 5678</string>
+    <string name="zonas">Zonas</string>
+    <string name="piso2">Piso 2</string>
+    <string name="piso1">Piso 1</string>
+    <string name="esta">Estacionamiento</string>
+    <string name="disponible">Espacio disponible 3/6</string>
+    <string name="zona_a">Zona A</string>
+
+</resources>
